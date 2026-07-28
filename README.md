@@ -1,4 +1,3 @@
-# Public-Utility-Company-Regression-Model
 # Target Corporation Quarterly Revenue Regression Analysis
 
 This project performs an Ordinary Least Squares (OLS) time-series regression analysis on Target Corporation's quarterly revenue data (`qSales_2024 (3).csv`) to model historical trends, seasonal spikes, and post-pandemic shifts. The analysis was prepared by **Mayurri Ravirajan (Quantfolio Solutions)** for **Chapman Wealth Management**.
